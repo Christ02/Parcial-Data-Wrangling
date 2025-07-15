@@ -1,6 +1,6 @@
 # Examen Parcial - Análisis de Datos
 
-Este repositorio contiene mi solución al examen parcial del curso de Análisis de Datos. A continuación se detallan las secciones y preguntas respondidas.
+Este repositorio contiene mi solución al examen parcial del curso de Data Wrangling. A continuación se detallan las secciones y preguntas respondidas.
 
 ## Sección 0: Preguntas de temas vistos en clase (20pts)
 
